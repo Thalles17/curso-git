@@ -19,3 +19,6 @@
  .gitgnore - Muitos arquivos e artefatos de sey projeto não devem ser commitados
  
  .env - (dotenv) - Lib/Modulo Javascript que auxilia a "esconder" informações importantes
+
+ todos os comandos tem que ser ESTUDADOS
+ 
